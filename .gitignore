@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/packages
+/ReportViewerForMvc/bin/Debug
+/ReportViewerForMvc/obj/Debug
+/ReportViewerForMvc.Tests/bin/Debug
+/ReportViewerForMvc.Tests/obj/Debug
+/ReportViewerForMvc.Tests/SqlServerTypes
+/ReportViewerForMvc.Example/bin
+/ReportViewerForMvc.Example/obj/Debug
+/ReportViewerForMvc.Example/SqlServerTypes
